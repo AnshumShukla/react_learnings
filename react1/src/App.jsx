@@ -10,7 +10,7 @@ function App() {
       tododate: "08/10/2004"
     },
     {
-      todoname: "go  to college",
+      todoname: " go to college",
       tododate: "08/10/2004"
     }
   ]
