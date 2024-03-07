@@ -4,18 +4,20 @@
     border: 1px solid black;
     margin: 20px;
     border-radius: 5px;
+    margin: 50px 450px;
 
 }
 
-.button{
- display: flex;
- justify-content: center;
- flex-wrap: wrap;
- margin: 10px;
+.button {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
 }
-.btn{
+
+.btn {
     width: 45px;
     height: 45px;
-    margin: 3px;
+    margin: 6px;
 
 }
